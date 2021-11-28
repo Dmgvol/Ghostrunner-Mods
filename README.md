@@ -7,13 +7,26 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
 ---
 
 ### Logic Mods
-- [Example - description](./LogicMods/ModExample/modexample.md)
+- [Ghost Mod](./LogicMods/GhostMod/ghostmod.md) - Previous run ghost as Kevin.
+- [Movement Mod](./logicmods/MovementMod/movementmod.md) - No enemies, no doors.
+- [Collision Visualizer](./logicmods/VisualizerMod/VisualizerMod.md) - Visualize collisions, invisible walls and more!
+
 
 ### Regular Mods
-- Coming Soon
+- [Unlimited PhotoMode Range](RegularMods/PhotoModeExtended_P.pak) by Dmgvol.
+- 
 
 ### Community Mods
-- Coming Soon
+- [GR Randomizer](https://github.com/Dmgvol/GhostrunnerRNG) (Doesn't support latest version yet)
+
+### Sword/Glove Skin Mods
+- [Swords Skins by FatihG.](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
+  - [Yamato](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
+  - [Murasama](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
+  - [Virtuos Contrat](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
+  - [Mastersword](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
+  - [Lightsaber](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
+  - [High Frequency Blade](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
 
 </br>
 
