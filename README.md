@@ -21,9 +21,10 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
 
 
 ## Useful Links
-- [Ghostrunner Modding Guides](https://github.com/Dmgvol/GR_Guides) - from basic to advanced.
+- [Modding FAQ](./modding-faq.md) - Don't know how to install or having issues? check this faq!
+- [Ghostrunner Modding Guides](https://github.com/Dmgvol/GR_Guides) - From basic to advanced.
 - [UnrealModLoader](https://github.com/RussellJerome/UnrealModLoader) - **Required for all LogicMods.**
-- [Ghostrunner FAQ](https://github.com/Kellegram/Ghostrunner_faq)
+- [Ghostrunner FAQ](https://github.com/Kellegram/Ghostrunner_faq) - Technical, troubleshooting, downpatching and more.
 
 ## Discords
 - [Official GR - Discord](discord.gg/Ghostrunner).
