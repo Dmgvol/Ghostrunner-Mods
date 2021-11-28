@@ -7,26 +7,29 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
 ---
 
 ### Logic Mods
+- [TBA-MOD-2]() - T....
+- [TBA-MOD-1]() - U....
+- [WaveMode-ExtensionMod](./LogicMods/WaveMod/wavemod.md) - More WaveMode!
 - [Ghost Mod](./LogicMods/GhostMod/ghostmod.md) - Previous run ghost as Kevin.
-- [Movement Mod](./logicmods/MovementMod/movementmod.md) - No enemies, no doors.
-- [Collision Visualizer](./logicmods/VisualizerMod/VisualizerMod.md) - Visualize collisions, invisible walls and more!
+- [Movement Mod](./LogicMods/MovementMod/movementmod.md) - No enemies, no doors.
+- [Collision Visualizer](./LogicMods/VisualizerMod/VisualizerMod.md) - Visualize collisions, invisible walls and more!
 
 
 ### Regular Mods
 - [Unlimited PhotoMode Range](RegularMods/PhotoModeExtended_P.pak) by Dmgvol.
-- 
+
 
 ### Community Mods
-- [GR Randomizer](https://github.com/Dmgvol/GhostrunnerRNG) (Doesn't support latest version yet)
+- [GR Randomizer](https://github.com/Dmgvol/GhostrunnerRNG) (Doesn't support latest version **yet**)
 
 ### Sword/Glove Skin Mods
-- [Swords Skins by FatihG.](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
-  - [Yamato](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
-  - [Murasama](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
-  - [Virtuos Contrat](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
-  - [Mastersword](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
-  - [Lightsaber](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
-  - [High Frequency Blade](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
+- [Sword Skins by FatihG.](./RegularMods/FatihG%20Mods/FatihG-Mods.md/)
+  - [Yamato](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#yamato)
+  - [Murasama](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#murasama)
+  - [Virtuos Contrat](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#virtuos-contrat)
+  - [Mastersword](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#mastersword)
+  - [Lightsaber](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#lightsaber)
+  - [High Frequency Blade](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#lightsaber)
 
 </br>
 
@@ -48,4 +51,4 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
 - [DmgVol](https://github.com/Dmgvol/) and [LongerWarrior](https://github.com/longerwarrior/) for creating awesome mods non-stop.
 - [RussellJerome]() for creating the [UnrealModLoader](https://github.com/RussellJerome/UnrealModLoader).
 - The whole GR community for supporting our work.
-- [One More Level](https://www.omlgames.com/en/home/) and [Slipgate Ironworks](http://slipgate-ironworks.com/)for developing the game.
+- [One More Level](https://www.omlgames.com/en/home/) and [Slipgate Ironworks](http://slipgate-ironworks.com/) for developing the game.

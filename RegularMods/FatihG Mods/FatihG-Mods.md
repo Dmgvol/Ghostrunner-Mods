@@ -19,7 +19,6 @@ NexusMods Link: [Murasama](https://www.nexusmods.com/ghostrunner/mods/2)
 
 ### Virtuos Contrat
 <img src="https://staticdelivery.nexusmods.com/mods/3492/images/3/3-1608056876-416858323.png" width=800/></br>
-Top: 
 </br>
 Description: Changes the default weapon with the Virtuos Contract from Nier. An option for Cruel Oath is available as well. </br>
 NexusMods Link: [Virtuos Contrat](https://www.nexusmods.com/ghostrunner/mods/3)
