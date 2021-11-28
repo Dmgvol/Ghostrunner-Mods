@@ -43,8 +43,8 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
 - [Ghostrunner FAQ](https://github.com/Kellegram/Ghostrunner_faq) - Technical, troubleshooting, downpatching and more.
 
 ## Discords
-- [Official GR - Discord](discord.gg/Ghostrunner).
-- [GR Speedrunning/Modding - GRSR Discord](discord.gg/gYGgtzC5s2).
+- [Official GR - Discord](https://discord.com/invite/Ghostrunner).
+- [GR Speedrunning/Modding - GRSR Discord](https://discord.com/invite/gYGgtzC5s2).
 
 
 # Credits
