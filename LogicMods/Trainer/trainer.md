@@ -38,4 +38,8 @@ All keybinding can be changed via Mod Settings.
 **Download:** [Trainer.pak](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/Trainer/Trainer.pak)
 
 ## In-Game Screenshots
+Gameplay
 ![](trainerScreenshot1.png)
+
+Settings
+![](trainerScreenshot2.png)
