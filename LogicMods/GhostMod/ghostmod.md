@@ -10,7 +10,7 @@ Just like in a racing game where you see your previous best as a ghost - same th
 
 **Author:** [DmgVol](https://github.com/Dmgvol/)
 
-**Download:** [GhostMod.pak](GhostMod.pak)
+**Download:** [GhostMod.pak](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/GhostMod/GhostMod.pak)
 
 ## Screenshots
 ![](ghost.gif)

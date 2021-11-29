@@ -9,14 +9,14 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
 ### Logic Mods
 - [TBA-MOD-2]() - T....
 - [TBA-MOD-1]() - U....
-- [WaveMode-ExtensionMod](./LogicMods/WaveMod/wavemod.md) - More WaveMode!
-- [Ghost Mod](./LogicMods/GhostMod/ghostmod.md) - Previous run ghost as Kevin.
-- [Movement Mod](./LogicMods/MovementMod/movementmod.md) - No enemies, no doors.
+- [WaveMode-ExtensionMod](./LogicMods/WaveMod/wavemod.md) - bigger map, 30+ waves and more!
+- [Ghost Mod](./LogicMods/GhostMod/ghostmod.md) - See your best run ghost as Kevin for every map.
+- [Movement Mod](./LogicMods/MovementMod/movementmod.md) - No enemies, no doors, pure movement.
 - [Collision Visualizer](./LogicMods/VisualizerMod/VisualizerMod.md) - Visualize collisions, invisible walls and more!
 
 
 ### Regular Mods
-- [Unlimited PhotoMode Range](RegularMods/PhotoModeExtended_P.pak) by Dmgvol.
+- [Unlimited PhotoMode Range](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/RegularMods/PhotoModeExtended_P.pak) by Dmgvol.
 
 
 ### Community Mods

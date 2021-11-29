@@ -9,7 +9,7 @@
 
 **Author:** [DmgVol](https://github.com/Dmgvol/)
 </br>
-**Download:** [VisualizerMod.pak](VisualizerMod.pak)
+**Download:** [VisualizerMod.pak](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/VisualizerMod/VisualizerMod.pak)
 
 ## In-Game Screenshots
 ![](./visualizer1.png)
