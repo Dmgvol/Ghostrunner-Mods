@@ -9,7 +9,7 @@
 
 **Author:** [DmgVol](https://github.com/Dmgvol/) & [LongerWarrior](https://github.com/LongerWarrior/)
 
-**Download:** [WaveMod.pak](WaveMod.pak)
+**Download:** [WaveMod.pak](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/WaveMod/WaveMod.pak)
 
 **Disclaimer:**  
 This will affect your final online leaderboard score, setting your wave count higher than max default.
