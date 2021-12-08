@@ -18,6 +18,8 @@ Comes with a built-in speedomemter!
 
 **Download:** [MovementMod.pak](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/MovementMod/MovementMod.pak)
 
+**How to install:** [Mod FAQ](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/modding-faq.md#first-time-usingdownloading-a-logicmod-follow-these-steps)
+
 ## Screenshots
 There is nothing to screenshot since there are no enemies nor doors, feels like the whole Dharma-Tower went on a vacation...
 ![](no%20doors.png)

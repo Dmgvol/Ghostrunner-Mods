@@ -23,6 +23,8 @@ Unlocker is accessible through `Settings->Gameplay->Mod Settings->Open Unlocker 
 
 **Download:** [Unlocker.pak](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/Unlocker/Unlocker.pak)
 
+**How to install:** [Mod FAQ](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/modding-faq.md#first-time-usingdownloading-a-logicmod-follow-these-steps)
+
 ### Disclaimer
 Make sure you backup your `.save` file before you run the mod! (just in case).
 I'm not responsible for any progress loss or/and achievements completions, so keep a backup prior to using it.

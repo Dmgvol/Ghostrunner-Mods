@@ -11,6 +11,8 @@
 
 **Download:** [WaveMod.pak](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/WaveMod/WaveMod.pak)
 
+**How to install:** [Mod FAQ](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/modding-faq.md#first-time-usingdownloading-a-logicmod-follow-these-steps)
+
 **Disclaimer:**  
 This will affect your final online leaderboard score, setting your wave count higher than max default.
 (if you care about your online leaderboard stats for WaveMode - avoid using this mod)
