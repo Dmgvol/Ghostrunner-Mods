@@ -13,7 +13,6 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
 - [Ghost Mod](./LogicMods/GhostMod/ghostmod.md) - See your previous best run in a form of a ghost.
 - [Movement Mod](./LogicMods/MovementMod/movementmod.md) - No enemies, no doors, pure movement.
 - [Collision Visualizer](./LogicMods/VisualizerMod/VisualizerMod.md) - Visualize collisions, invisible walls and more!
-- [Convenient Freecam]()
 
 
 ### Regular Mods

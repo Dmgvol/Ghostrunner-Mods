@@ -25,7 +25,7 @@ __For LogicMods(that require the modloader);__
 - Once done, launch `UnrealEngineModLauncher.exe` and then Ghostrunner.
 
 ### How to use modloader?
-- Make sure you have the latest version downloaded: <https://github.com/RussellJerome/UnrealModLoader/releases>
+- Make sure you have the latest version downloaded from [**here**](https://github.com/RussellJerome/UnrealModLoader/releases)
 - Navigate to `Ghostrunner\Content\Paks\` and create a new folder named `LogicMods`.
 - Place your mods inside LogicMods folder along with their matching `.sig` files.
 - Run the modloader and launch GR, it should display "successfully loaded <modname>" for each of your mods.
@@ -49,7 +49,6 @@ If it still crashes the game, ask on Discord.
 ### - Modloader crashing with DX11 error
 Make sure you launch the game in dx11 since modloader supports only dx11 by design, but there are plans to add support dx12 in the future.
 
-<<<<<<< Updated upstream
 ### - Modloader is stuck on "Waiting for game window"
 It may be due to a permission issue, try running the modloader as administrator.
 
