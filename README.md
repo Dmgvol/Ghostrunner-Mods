@@ -31,7 +31,7 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
   - [Mastersword](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#mastersword)
   - [Lightsaber](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#lightsaber)
   - [High Frequency Blade](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#lightsaber)
-
+- [Banana katana](https://www.nexusmods.com/ghostrunner/mods/14) by spuds
 </br>
 
 ---
