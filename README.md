@@ -13,6 +13,7 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
 - [Ghost Mod](./LogicMods/GhostMod/ghostmod.md) - See your previous best run in a form of a ghost.
 - [Movement Mod](./LogicMods/MovementMod/movementmod.md) - No enemies, no doors, pure movement.
 - [Collision Visualizer](./LogicMods/VisualizerMod/VisualizerMod.md) - Visualize collisions, invisible walls and more!
+- [Convenient Freecam]()
 
 
 ### Regular Mods
@@ -31,7 +32,7 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
   - [Mastersword](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#mastersword)
   - [Lightsaber](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#lightsaber)
   - [High Frequency Blade](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/RegularMods/FatihG%20Mods/FatihG-Mods.md#lightsaber)
-
+- [Banana katana](https://www.nexusmods.com/ghostrunner/mods/14) by spuds
 </br>
 
 ---
