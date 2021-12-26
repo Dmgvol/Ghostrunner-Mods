@@ -14,6 +14,7 @@ Running Killrun or older versions? use the older [GRUnlocker v1](https://github.
 - Unlocks 100% save (All levels, upgrades and collectibles).
 - Unlock the hidden double-jump.
 - Backup/Load loaded save.
+- Reset cloud data for KR and Wave.
 
 **Controls:**
 
