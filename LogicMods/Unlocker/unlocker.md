@@ -15,6 +15,9 @@ Running Killrun or older versions? use the older [GRUnlocker v1](https://github.
 - Unlock the hidden double-jump.
 - Backup/Load loaded save.
 - Reset cloud data for KR and Wave.
+- Advanced Cloud Resetting: 
+   - Reset/modify any cloud data - deaths/times/WaveData.
+   - Supports all individual levels, all difficulties and all game modes.
 
 **Controls:**
 
@@ -31,4 +34,5 @@ Make sure you backup your `.save` file before you run the mod! (just in case).
 I'm not responsible for any progress loss or/and achievements completions, so keep a backup prior to using it.
 
 ## In-Game Screenshots
-![](unlockerScreenshot.png)
+![](unlockerScreenshot.png) </br>
+![](unlockerScreenshot2.png)
