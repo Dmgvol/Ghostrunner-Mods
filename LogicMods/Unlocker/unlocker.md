@@ -7,8 +7,10 @@ Running Killrun or older versions? use the older [GRUnlocker v1](https://github.
 
 **Description:** Unlocks levels, collectibles, 100% and more!
 
+_Note: Supports Hel Update_
+
 ### Features:
-- Unlock/Reset Levels (Classic, Hardcore, KillRun).
+- Unlock/Reset Levels (Classic, Hardcore, KillRun, Hel).
 - Unlock/Reset Swords, Gloves, Audio files, Story Items, Upgrades.
 - Unlock up to a specific level with corresponding upgrades.
 - Unlocks 100% save (All levels, upgrades and collectibles).

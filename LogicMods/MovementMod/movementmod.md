@@ -21,7 +21,9 @@ Comes with a built-in speedomemter!
 
 **Author:** [DmgVol](https://github.com/Dmgvol/) & [LongerWarrior](https://github.com/LongerWarrior/)
 
-**Download:** [MovementMod.pak](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/MovementMod/MovementMod.pak)
+**Download:** </br>
+For Classic levels: [MovementMod](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/MovementMod/MovementMod.pak) [UE 4.25]</br>
+For Hel levels(Hel DLC): [MovementHelMod](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/MovementMod/MovementHelMod.pak) [UE 4.26]
 
 **How to install:** [Mod FAQ](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/modding-faq.md#first-time-usingdownloading-a-logicmod-follow-these-steps)
 

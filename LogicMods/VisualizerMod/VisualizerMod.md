@@ -4,8 +4,10 @@
 **Description:** The true form of the visualizer: invisible walls, kill volumes, checkpoints, triggers/events, enemies, navigation boundaries, hitboxes, LODs, and much more!
 </br>
 **Controls:** 
-- F1 - Manual visualize-all button.
+- It visualizes on level load, in case you want to manually force it: 
+- - open ModMenu (F1), Visualizer contains one button: Force-Visualizer.
 
+_Note: Support Hel Update_
 
 **Author:** [DmgVol](https://github.com/Dmgvol/)
 </br>
