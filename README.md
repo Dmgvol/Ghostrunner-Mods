@@ -10,6 +10,7 @@ Collection of mods for Ghostrunner ranging from basic to professional mods, incl
 - [Trainer](./LogicMods/Trainer/trainer.md) - Allows the player to fly, become immortal, teleport and much more!
 - [Unlocker](./LogicMods/Unlocker/unlocker.md) - Unlocks levels, collectibles, 100% and more!
 - [WaveMode-ExtensionMod](./LogicMods/WaveMod/wavemod.md) - bigger map, 30+ waves and more!
+- [WaveMode-V3](./LogicMods/WaveModV3/wavemod3.md) - NEW map, drones, lasers and more. (Hel Branch only)
 - [Ghost Mod](./LogicMods/GhostMod/ghostmod.md) - See your previous best run in a form of a ghost.
 - [Movement Mod](./LogicMods/MovementMod/movementmod.md) - No enemies, no doors, pure movement.
 - [Collision Visualizer](./LogicMods/VisualizerMod/VisualizerMod.md) - Visualize collisions, invisible walls and more!
