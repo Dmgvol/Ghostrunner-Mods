@@ -9,11 +9,11 @@ Reveal Trailer: [Wave Mode v3 Trailer](https://www.youtube.com/watch?v=9aRWuitL9
 - Brand new map.
 - Local leaderboards for each of the difficulties and maps.
 - Ability to skip to wave 20. 
-- Addtional Difficulty levels: limited time/deaths/upgrades and more.
+- Additional Difficulty levels: limited time/deaths/upgrades and more.
 - Drones.
 - New obstacles: Laser walls and moving lasers.
 - Up to 35 waves in total.
-- Enemies buffed after wave 30.
+- Enemies buffed after wave 29.
 - New Cards.
 - A whole new experience for Wave Mode you have never seen before.
 
