@@ -1,6 +1,6 @@
 # Modding FAQ
 
-## First time using/downloading a _LogicMod_? follow these steps:
+## First time using/downloading a _LogicMod_? follow these steps: 
 - Download the mod file(`.pak`) and the latest [UnrealModLoader](<https://github.com/RussellJerome/UnrealModLoader/releases/latest>). (the UnrealModLoader_V2.2.0.rar) 
 - Unpack the UnrealModLoader rar (doesn't matter where).
 - Navigate to Ghostrunner installation folder, folder Paks:</br>
@@ -13,6 +13,7 @@ For example: if the mod is `WaveMod.pak` then it should be: `WaveMod.sig`.
 - Enjoy!
   
 ___
+</br></br></br>
 
 ### - How to install mods?
 __For regular mods(ending with `_P` in their name);__
