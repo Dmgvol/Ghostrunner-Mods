@@ -24,6 +24,8 @@ Reveal Trailer: [Wave Mode v3 Trailer](https://www.youtube.com/watch?v=9aRWuitL9
 **Download:** [WaveMod.pak](https://github.com/Dmgvol/Ghostrunner-Mods/raw/main/LogicMods/WaveModV3/WaveMod.pak)
 
 **How to install:** [Mod FAQ](https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/modding-faq.md#first-time-usingdownloading-a-logicmod-follow-these-steps)</br>
+**Quick installation video:** [How to install WaveMode - Version 3](https://youtu.be/HgXQiQB5faw)
+
 **Note:** Make sure you use the latest Modloader and update the matching `.sig` file.
 
 **Disclaimer:**  
