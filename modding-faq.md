@@ -26,7 +26,7 @@ __For LogicMods(that require the modloader);__
 - Once done, launch `UnrealEngineModLauncher.exe` and then Ghostrunner.
 
 ### How to use modloader?
-- Make sure you have the latest version downloaded from [**here**](https://github.com/RussellJerome/UnrealModLoader/releases)
+- Make sure you have the latest version downloaded from [**here**](https://github.com/dmgvol/UnrealModLoader/releases/latest)
 - Navigate to `Ghostrunner\Content\Paks\` and create a new folder named `LogicMods`.
 - Place your mods inside LogicMods folder along with their matching `.sig` files.
 - Run the modloader and launch GR, it should display "successfully loaded <modname>" for each of your mods.
